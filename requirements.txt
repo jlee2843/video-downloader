@@ -3,6 +3,6 @@ requests
 beautifulsoup4
 lxml
 imageio-ffmpeg
-opencv-python
+opencv-python-headless>=4.8
 easyocr
 torch
