@@ -1,4 +1,8 @@
 streamlit
-httpx
+requests
 beautifulsoup4
 lxml
+imageio-ffmpeg
+opencv-python
+easyocr
+torch
